@@ -1,1 +1,3 @@
 # Lockdown_Analyzer
+
+The aim of this project is to implement the concept of graph theory in developing a lockdown analyzer which will be beneficial in the situation like the coronavirus pandemic. Coronavirus is a dreadful communicative disease which has spread to almost every country of the globe. The goal is to implement some data structures along with some GUI in simulation of a real-life context. It will be used to analyze lockdown model effectively, implement the model of good delivery smoothly by avoiding the region which is in lockdown and also make COVID sample testing faster by choosing optimal path.
